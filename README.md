@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Renan Medrado
 
-- 🔭 Atualmente cursando faculdade na Ampli
+- 🔭 Atualmente cursando faculdade na Ampli (Análise e desenvolvimento de sistemas)
 - 📚 Estudando Java...☕💻
 - 📫 e-mail: renancrosstec@gmail.com
 - 😄 Pronouns: ele/dele
